@@ -50,6 +50,9 @@ Explora mis repositorios públicos aquí abajo ⬇️⬇️⬇️
 
 ---
 
-### 📜 **Certificaciones** *(próximamente)*
+### 📜 **Certificaciones**
 
-Muy pronto estaré compartiendo aquí mis certificaciones más importantes 🏅
+- 🗃️ [Curso Profesional de Git y GitHub – Platzi](https://platzi.com/p/francis.pomasoncco/curso/11059-course/diploma/detalle/)  
+  Aprendí a gestionar proyectos con Git, colaborar en GitHub, crear ramas, resolver conflictos y trabajar con flujos de desarrollo profesional.
+
+*(Más certificaciones próximamente...)* 🏅
