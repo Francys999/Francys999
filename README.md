@@ -69,7 +69,7 @@
 
   - 🐍 [Curso de Fundamentos de Python – Platzi](https://platzi.com/p/francis.pomasoncco/curso/4227-course/diploma/detalle/)  
     Aprendí los fundamentos del lenguaje Python, tipos de datos, estructuras de control, funciones y buenas prácticas de programación.
-  - 💻 [Repositorio del Proyecto del Curso](https://github.com/TU_USUARIO/TU_REPOSITORIO)
+  - 💻 [Repositorio del Proyecto del Curso](https://github.com/Francys999/Fundamentos-de-Python)
 
   ---
 
