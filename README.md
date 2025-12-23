@@ -9,7 +9,13 @@
   - 🎓 **Carrera:** Diseño y Desarrollo de Software 💻  
   - 🏫 **Institución:** [Tecsup](https://www.tecsup.edu.pe/) 🎓
 
-  Soy estudiante de Diseño y Desarrollo de Software, apasionado por la **tecnología**, la **resolución de problemas** y la creación de herramientas que mejoren la vida de las personas. Me gustaría generar un gran impacto y **revolucionar el mundo de la tecnología**, especialmente enfocada en el **deporte** y el **rendimiento de atletas de alto nivel**. Disfruto combinar la creatividad, la lógica y la programación para dar vida a ideas con propósito.
+Soy estudiante de **Diseño y Desarrollo de Software**, enfocado en **crecer como desarrollador** y en la construcción de proyectos con impacto real.  
+Me apasiona la **programación**, la **lógica**, la **resolución de problemas** y el aprendizaje constante.
+
+Tengo un fuerte interés en cómo la **tecnología puede aplicarse a contextos reales**, optimizar procesos y generar soluciones útiles.  
+Actualmente estoy fortaleciendo mis bases en **backend, lógica de programación y desarrollo web**, con el objetivo de crear aplicaciones bien estructuradas, escalables y orientadas a buenas prácticas.
+
+Creo en aprender haciendo, equivocarme rápido y mejorar todos los días 🚀
 
   ---
 
